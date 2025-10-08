@@ -1,7 +1,7 @@
 # Security_Monitoring_Dashboard
 **“What gets measured gets managed,” Peter Drucker**
 
-This lab simulates a live dashboard environment for Switch Pay, a fictional fintech company, using a custom-built Splunk lab. By generating purposefully deficient API logs, transaction logs, and firewall logs, this project shows complexity of real-world fintech infrastructure and exposes issues like misconfigurations, improper request handling, and network misbehavior.
+This lab simulates a live dashboard environment for Switch Pay, a fictional fintech company, using a custom-built Splunk lab. By generating purposefully deficient API logs, transaction logs, and firewall logs, this project shows the complexity of a real-time fintech infrastructure and exposes issues like misconfigurations, improper request handling, and network misbehavior.
 
 ### Data Sources
 ```
